@@ -1,4 +1,4 @@
-# Multitouch Toy
+# TUIO TouchToy
 
 ## About
 
